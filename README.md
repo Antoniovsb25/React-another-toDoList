@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# To Do list with react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto feito como exercício de front-end development, para fortalecer os fundamentos de React.
 
 ## Available Scripts
 
